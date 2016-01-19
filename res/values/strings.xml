@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CodeChallengeFrankly</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    
+    <string name="title_key">title: </string>
+    <string name="artist_key">artist: </string>
+    <string name="album_key">album: </string>
+    
+    <string name="title_hint">enter title</string>
+    <string name="artist_hint">enter artist</string>
+    <string name="album_hint">enter album</string>
+    
+    <string name="save">save</string>
+    
+    <string name="music_provider_authorities">com.shanefrankly.content.provider</string>
+    
+</resources>
